@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "site": "video1",
+    "public": "folder"
+  },
+  "emulators": {
+    "hosting": {
+      "port": 5000
+    },
+    "ui": {
+      "enabled": true
+    }
+  }
+}
